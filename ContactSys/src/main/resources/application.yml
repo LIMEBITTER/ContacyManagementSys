@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: ContactSys
+
+  web:
+    resources:
+      static-locations: file:F://Data//IDEAProject//XMLFinal//ContactSys//upload
+server:
+  port: 9090
+
+
+file:
+  upload:
+    path: F:\Data\IDEAProject\XMLFinal\ContactSys\upload\user_file\
+

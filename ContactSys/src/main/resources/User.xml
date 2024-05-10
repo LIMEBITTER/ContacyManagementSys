@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user>
+        <id>1</id>
+        <image>1_Snipaste_2024-05-05_16-04-29.png</image>
+        <password>123</password>
+        <username>zhangsan</username>
+    </user>
+    <user>
+        <id>2</id>
+        <image></image>
+        <password>12344555</password>
+        <username>LISI</username>
+    </user>
+    <user>
+        <id>3</id>
+        <image></image>
+        <password>645234</password>
+        <username>WANGWU</username>
+    </user>
+    <user>
+        <id>4</id>
+        <image>4_4211153040.JPG</image>
+        <password>123</password>
+        <username>wangwu</username>
+    </user>
+</users>
